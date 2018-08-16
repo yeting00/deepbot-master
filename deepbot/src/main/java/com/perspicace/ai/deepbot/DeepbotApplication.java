@@ -66,6 +66,9 @@ public class DeepbotApplication {
 		int status = server.main ( "IceBox.Server" , args , "icebox.properties" );
 		System.exit ( status );
 
+
+		//add test
+
 	}
 
 }
