@@ -1,7 +1,7 @@
 package deepbot;
 
 import com.alibaba.fastjson.JSON;
-import com.perspicace.ai.deepbot.common.constant.HeaderType;
+import com.perspicace.ai.common.constant.HeaderType;
 import com.perspicace.ai.deepbot.config.MicrosoftProperties;
 import com.perspicace.ai.deepbot.config.PerspicaceProperties;
 import com.perspicace.ai.deepbot.domain.Person;
