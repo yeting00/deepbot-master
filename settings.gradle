@@ -1,0 +1,5 @@
+rootProject.name = 'deepbot-master'
+include 'common'
+include 'icegenerated'
+include 'deepbot'
+

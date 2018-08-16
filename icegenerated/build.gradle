@@ -1,0 +1,45 @@
+//编译脚本添加slice插件编译
+buildscript {
+    dependencies {
+        classpath "gradle.plugin.com.zeroc.gradle.ice-builder:slice:1.4.5"
+    }
+}
+
+//添加编译插件
+plugins {
+    id "com.zeroc.gradle.ice-builder.slice" version "1.4.5"
+}
+apply plugin: "com.zeroc.gradle.ice-builder.slice"
+
+
+//ice编译后的输出文件
+def iceoutputfile = 'generated'
+
+//如果不设定ice文件的路径 默认的是编译 'src/main/slice' 中的ice文件
+slice {
+    //设定输出文件
+    output = file(iceoutputfile)
+    java {
+        set1 {
+            include = ["${projectDir}/slice"]
+            files = fileTree(dir: "slice", includes: ['**/*.ice'])
+        }
+    }
+}
+
+//设置generated 文件夹为src目录
+sourceSets{
+    main{
+        java{
+            srcDir iceoutputfile
+        }
+    }
+}
+
+//引入父工程的依赖jar包
+dependencies {
+    compile rootProject.ext.dependencies["ice"]
+    compile rootProject.ext.dependencies["icebox"]
+    compile rootProject.ext.dependencies["icegrid"]
+    compile rootProject.ext.dependencies["glacier2"]
+}
