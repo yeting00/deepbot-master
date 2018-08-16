@@ -108,6 +108,7 @@ public class WeatherServiceImpl implements BusinessServices<Slot4Weather, Weathe
                 }
                 if (stringListMap.containsKey ( Entity.WEATHER_CONDITION )) {
                     slotWeatherConditionList = stringListMap.get ( Entity.WEATHER_CONDITION );
+
                 }
                 if (stringListMap.containsKey ( Entity.LOCATION )) {
                     slotLocationList = stringListMap.get ( Entity.LOCATION );
