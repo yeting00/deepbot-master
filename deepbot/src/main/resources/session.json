@@ -1,0 +1,54 @@
+{
+  "SessionID": "123456",
+  "GroupID": "样板间",
+  "DeviceID": "888888",
+  "DeviceSN": "xxxxxx",
+  "QueryDate": "2018-06-30T09:00:00",
+  "time": "1999889989",
+  "Query": "定个明天八点的闹钟",
+  "CorrectedQuery ": "定个明天八点的闹钟",
+  "Intents": {
+    "Segment": "打开 厨房 和 卫生 间 的 空调",
+    "Domain": "devicecontrol",
+    "Intent": "turn_on_device",
+    "Implicit": false,
+    "Slots": [
+      {
+        "Type": "location",
+        "Text": "厨房",
+        "Implicit": false
+      },
+      {
+        "Type": "location",
+        "Text": "卫生 间",
+        "Implicit": false
+      },
+      {
+        "Type": "device",
+        "Text": "空调",
+        "Implicit": false
+      }
+    ]
+  },
+  "ResponseInfo": {
+    "Response": "没问题",
+    "Suggest": {
+      "Domain": "turn_on_device",
+      "Intent": "turn_on_device",
+      "Slots": [
+        {
+          "Type": "location",
+          "Text": "厨房"
+        },
+        {
+          "Type": "location",
+          "Text": "卫生 间"
+        },
+        {
+          "Type": "device",
+          "Text": "空调"
+        }
+      ]
+    }
+  }
+}

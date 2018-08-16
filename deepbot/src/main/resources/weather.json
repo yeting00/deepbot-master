@@ -1,0 +1,1027 @@
+{
+  "indexes": [
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/chenlian.png",
+        "statsKey": "-1055"
+      },
+      "valueV2": "较不宜晨练",
+      "name": "晨练指数",
+      "value": "较不宜",
+      "desc": "有降水，较不宜晨练，室外锻炼请携带雨具。建议年老体弱人群适当减少晨练时间。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/tianqi.png",
+        "statsKey": "-1053"
+      },
+      "valueV2": "天气热",
+      "name": "穿衣指数",
+      "value": "热",
+      "desc": "天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/shushidu.png",
+        "statsKey": "-1059"
+      },
+      "valueV2": "较舒适",
+      "name": "舒适度指数",
+      "value": "较舒适",
+      "desc": "白天有雨，从而使空气湿度加大，会使人们感觉有点儿闷热，但早晚的天气很凉爽、舒适。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/ganmao.png",
+        "statsKey": "-1056"
+      },
+      "valueV2": "少发感冒",
+      "name": "感冒指数",
+      "value": "少发",
+      "desc": "各项气象条件适宜，发生感冒机率较低。但请避免长期处于空调房间中，以防感冒。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/ziwaixian.png",
+        "statsKey": "-1054"
+      },
+      "valueV2": "紫外线弱",
+      "name": "紫外线强度指数",
+      "link": "http://m.weathercn.com/index.do?language=zh-cn&smartid=101020100&partner=1000001009",
+      "value": "弱",
+      "desc": "紫外线强度较弱，建议出门前涂擦SPF在12-15之间、PA+的防晒护肤品。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/lvyou.png",
+        "statsKey": "-1057"
+      },
+      "valueV2": "适宜旅游",
+      "name": "旅游指数",
+      "link": "http://m.weathercn.com/index.do?language=zh-cn&smartid=101020100&partner=1000001009",
+      "value": "适宜",
+      "desc": "稍热，但是有较弱降水和微风作伴，会给您的旅行带来意想不到的景象，适宜旅游，可不要错过机会呦！"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/xiche.png",
+        "statsKey": "-1052"
+      },
+      "valueV2": "不宜洗车",
+      "name": "洗车指数",
+      "link": "http://m.weathercn.com/index.do?language=zh-cn&smartid=101020100&partner=1000001009",
+      "value": "不宜",
+      "desc": "不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。"
+    },
+    {
+      "ext": {
+        "icon": "http://static.etouch.cn/icon/liangshai.png",
+        "statsKey": "-1058"
+      },
+      "valueV2": "不宜晾晒",
+      "name": "晾晒指数",
+      "link": "http://m.weathercn.com/index.do?language=zh-cn&smartid=101020100&partner=1000001009",
+      "value": "不宜",
+      "desc": "有降水，不适宜晾晒。若需要晾晒，请在室内准备出充足的空间。"
+    },
+    {
+      "ext": {
+        "icon": "",
+        "statsKey": ""
+      },
+      "valueV2": "较适宜钓鱼",
+      "name": "钓鱼指数",
+      "value": "较适宜",
+      "desc": "较适合垂钓，但天气稍热，会对垂钓产生一定的影响。"
+    },
+    {
+      "ext": {
+        "icon": "",
+        "statsKey": ""
+      },
+      "valueV2": "去油化妆",
+      "name": "化妆指数",
+      "value": "去油",
+      "desc": "天气较热，建议用露质面霜打底，水质无油粉底霜，透明粉饼，粉质胭脂。"
+    },
+    {
+      "ext": {
+        "icon": "",
+        "statsKey": ""
+      },
+      "valueV2": "较不宜运动",
+      "name": "运动指数",
+      "value": "较不宜",
+      "desc": "有降水，推荐您在室内进行健身休闲运动；若坚持户外运动，须注意携带雨具并注意避雨防滑。"
+    },
+    {
+      "ext": {
+        "icon": "",
+        "statsKey": ""
+      },
+      "valueV2": "带伞",
+      "name": "雨伞指数",
+      "value": "带伞",
+      "desc": "有降水，请带上雨伞，如果你喜欢雨中漫步，享受大自然给予的温馨和快乐，在短时间外出可收起雨伞。"
+    },
+    {
+      "ext": {
+        "icon": "",
+        "statsKey": ""
+      },
+      "valueV2": "较不适宜约会",
+      "name": "约会指数",
+      "value": "较不适宜",
+      "desc": "天气较热，室外有风，而且有降水，会给室外约会带来不便，外出约会请一定做好准备。"
+    }
+  ],
+  "meta": {
+    "circle_count": 31438,
+    "post_id": "501469",
+    "citykey": "101020100",
+    "city": "上海市",
+    "upper": "上海",
+    "html_url": "http://yun.rili.cn/tianqi/index.html?city=101020100",
+    "wcity": [
+      "w_101020100"
+    ],
+    "up_time": "12:30",
+    "post_count": 5099,
+    "status": 1000,
+    "desc": "看看离你最近的历友在哪里"
+  },
+  "weatherUrls": {
+    "w_life_index_more": "http://m.weathercn.com/livingindex.do?language=zh-cn&smartid=101020100&partner=1000001009#Indices",
+    "w_forecast_90": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&partner=1000001009",
+    "w_gradual_hour": ""
+  },
+  "forecast15": [
+    {
+      "date": "20180702",
+      "sunrise": "04:53",
+      "high": 31,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=0&partner=1000001009",
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371482.976.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284487.8387.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "东风",
+        "notice": "今晚虽阴，月光洒满你的梦"
+      },
+      "aqi": 33,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371479.5574.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284484.5873.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "东风",
+        "notice": "不要被阴云遮挡住好心情"
+      }
+    },
+    {
+      "date": "20180703",
+      "sunrise": "04:54",
+      "high": 31,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=1&partner=1000001009",
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "多云",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371467.4939.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284464.307.jpg",
+        "wp": "<3级",
+        "type": 2,
+        "wd": "东南风",
+        "notice": "夜晚多云，愿你梦里有月光"
+      },
+      "aqi": 29,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180704",
+      "sunrise": "04:54",
+      "high": 33,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=2&partner=1000001009",
+      "low": 27,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 67,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180705",
+      "sunrise": "04:54",
+      "high": 33,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=3&partner=1000001009",
+      "low": 27,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 82,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180706",
+      "sunrise": "04:55",
+      "high": 31,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=4&partner=1000001009",
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 81,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "中雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371566.5722.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284602.1518.jpg",
+        "wp": "<3级",
+        "type": 10,
+        "wd": "东北风",
+        "notice": "记得随身携带雨伞哦"
+      }
+    },
+    {
+      "date": "20180707",
+      "sunrise": "04:55",
+      "high": 31,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=5&partner=1000001009",
+      "low": 28,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371482.976.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284487.8387.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "西南风",
+        "notice": "今晚虽阴，月光洒满你的梦"
+      },
+      "aqi": 40,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180708",
+      "sunrise": "04:56",
+      "high": 35,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=6&partner=1000001009",
+      "low": 28,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371482.976.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284487.8387.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "西南风",
+        "notice": "今晚虽阴，月光洒满你的梦"
+      },
+      "aqi": 49,
+      "forecastAirUrl": "",
+      "day": {
+        "wthr": "中雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371566.5722.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284602.1518.jpg",
+        "wp": "<3级",
+        "type": 10,
+        "wd": "东南风",
+        "notice": "记得随身携带雨伞哦"
+      }
+    },
+    {
+      "date": "20180709",
+      "sunrise": "04:56",
+      "high": 35,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=7&partner=1000001009",
+      "low": 27,
+      "sunset": "19:01",
+      "night": {
+        "wthr": "中雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371569.881.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284605.8008.jpg",
+        "wp": "3-4级",
+        "type": 10,
+        "wd": "东南风",
+        "notice": "记得随身携带雨伞哦"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180710",
+      "sunrise": "04:57",
+      "high": 27,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=8&partner=1000001009",
+      "low": 24,
+      "sunset": "19:01",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180711",
+      "sunrise": "04:57",
+      "high": 28,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=9&partner=1000001009",
+      "low": 24,
+      "sunset": "19:01",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "3-4级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180712",
+      "sunrise": "04:58",
+      "high": 30,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=10&partner=1000001009",
+      "low": 25,
+      "sunset": "19:01",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "3-4级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "3-4级",
+        "type": 8,
+        "wd": "西风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180713",
+      "sunrise": "04:58",
+      "high": 28,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=11&partner=1000001009",
+      "low": 25,
+      "sunset": "19:00",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180714",
+      "sunrise": "04:59",
+      "high": 30,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=12&partner=1000001009",
+      "low": 26,
+      "sunset": "19:00",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180715",
+      "sunrise": "04:59",
+      "high": 29,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=13&partner=1000001009",
+      "low": 26,
+      "sunset": "19:00",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180716",
+      "sunrise": "05:00",
+      "high": 29,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=14&partner=1000001009",
+      "low": 24,
+      "sunset": "18:59",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "西南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180717",
+      "sunrise": "05:00",
+      "high": 28,
+      "forecastUrl": "http://m.weathercn.com/daily-weather-forecast.do?language=zh-cn&smartid=101020100&day=15&partner=1000001009",
+      "low": 25,
+      "sunset": "18:59",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    }
+  ],
+  "forecast": [
+    {
+      "date": "20180702",
+      "sunrise": "04:53",
+      "high": 31,
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371482.976.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284487.8387.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "东风",
+        "notice": "今晚虽阴，月光洒满你的梦"
+      },
+      "aqi": 33,
+      "day": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371479.5574.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284484.5873.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "东风",
+        "notice": "不要被阴云遮挡住好心情"
+      }
+    },
+    {
+      "date": "20180703",
+      "sunrise": "04:54",
+      "high": 31,
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "多云",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371467.4939.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284464.307.jpg",
+        "wp": "<3级",
+        "type": 2,
+        "wd": "东南风",
+        "notice": "夜晚多云，愿你梦里有月光"
+      },
+      "aqi": 29,
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180704",
+      "sunrise": "04:54",
+      "high": 33,
+      "low": 27,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 67,
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180705",
+      "sunrise": "04:54",
+      "high": 33,
+      "low": 27,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 82,
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    },
+    {
+      "date": "20180706",
+      "sunrise": "04:55",
+      "high": 31,
+      "low": 26,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371554.566.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284577.5363.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东风",
+        "notice": "别看雨还小，冒雨要不得"
+      },
+      "aqi": 81,
+      "day": {
+        "wthr": "中雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371566.5722.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284602.1518.jpg",
+        "wp": "<3级",
+        "type": 10,
+        "wd": "东北风",
+        "notice": "记得随身携带雨伞哦"
+      }
+    },
+    {
+      "date": "20180707",
+      "sunrise": "04:55",
+      "high": 31,
+      "low": 28,
+      "sunset": "19:02",
+      "night": {
+        "wthr": "阴",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371482.976.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284487.8387.jpg",
+        "wp": "<3级",
+        "type": 34,
+        "wd": "西南风",
+        "notice": "今晚虽阴，月光洒满你的梦"
+      },
+      "aqi": 40,
+      "day": {
+        "wthr": "小雨",
+        "bgPic": "http://static.etouch.cn/imgs/upload/1505371550.6113.jpg",
+        "smPic": "http://static.etouch.cn/imgs/upload/1505284574.0261.jpg",
+        "wp": "<3级",
+        "type": 8,
+        "wd": "东南风",
+        "notice": "雨虽小，注意保暖别感冒"
+      }
+    }
+  ],
+  "hourfc": [
+    {
+      "wthr": 31,
+      "shidu": "70%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807031300",
+      "type": 2,
+      "wd": "东风"
+    },
+    {
+      "wthr": 30,
+      "shidu": "72%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807031400",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 30,
+      "shidu": "77%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "阵雨",
+      "time": "201807031500",
+      "type": 3,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 30,
+      "shidu": "71%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807031600",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 29,
+      "shidu": "78%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "阵雨",
+      "time": "201807031700",
+      "type": 3,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 29,
+      "shidu": "73%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807031800",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 29,
+      "shidu": "75%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807031900",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 28,
+      "shidu": "77%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807032000",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 28,
+      "shidu": "78%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807032100",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 28,
+      "shidu": "80%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807032200",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "81%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807032300",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "82%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040000",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "82%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040100",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "82%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040200",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "83%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040300",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "83%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040400",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 26,
+      "shidu": "84%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040500",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 27,
+      "shidu": "81%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040600",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 28,
+      "shidu": "76%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040700",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 29,
+      "shidu": "71%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040800",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 30,
+      "shidu": "67%",
+      "hourfcUrl": "",
+      "wp": "5-6级",
+      "type_desc": "多云",
+      "time": "201807040900",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 31,
+      "shidu": "65%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807041000",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 32,
+      "shidu": "64%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807041100",
+      "type": 2,
+      "wd": "东南风"
+    },
+    {
+      "wthr": 33,
+      "shidu": "64%",
+      "hourfcUrl": "",
+      "wp": "6-7级",
+      "type_desc": "多云",
+      "time": "201807041200",
+      "type": 2,
+      "wd": "东南风"
+    }
+  ],
+  "xianhao": [],
+  "source": {
+    "link": "http://m.weathercn.com/index.do?language=zh-cn&smartid=101020100&partner=1000001009",
+    "icon": "http://static.etouch.cn/icon/tianqitong.png",
+    "title": "中国天气通"
+  },
+  "evn": {
+    "no2": 22,
+    "mp": "",
+    "pm25": 18,
+    "o3": 40,
+    "so2": 8,
+    "aqi": 33,
+    "pm10": 32,
+    "suggest": "各类人群可自由活动",
+    "time": "12:00:00",
+    "co": 0,
+    "quality": "优"
+  },
+  "observe": {
+    "shidu": "69%",
+    "wthr": "多云",
+    "temp": 29,
+    "night": {
+      "bgPic": "http://static.etouch.cn/imgs/upload/1505371467.4939.jpg",
+      "smPic": "http://static.etouch.cn/imgs/upload/1505284464.307.jpg"
+    },
+    "up_time": "12:30",
+    "wp": "1级",
+    "tigan": "29",
+    "type": 2,
+    "wd": "东南风",
+    "day": {
+      "bgPic": "http://static.etouch.cn/imgs/upload/1505371463.3431.jpg",
+      "smPic": "http://static.etouch.cn/imgs/upload/1505284459.5844.jpg"
+    }
+  }
+}

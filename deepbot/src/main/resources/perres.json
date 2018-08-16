@@ -1,0 +1,36 @@
+{
+  "msg": "",
+  "code": 200,
+  "data": {
+    "topScene": "ControlDevice",
+    "topScore": 0.9999903313564807,
+    "suggest": "ControlDevice-onoff",
+    "entities": [
+      {
+        "text": "打开",
+        "type": "operatevalue",
+        "entityKey": "open",
+        "suggestion": null
+      },
+      {
+        "text": "厨房",
+        "type": "position",
+        "entityKey": "kitchen",
+        "suggestion": null
+      },
+      {
+        "text": "空调",
+        "type": "electrical",
+        "entityKey": "aircondition",
+        "suggestion": null
+      },
+      {
+        "text": "今天",
+        "type": "time",
+        "entityKey": null,
+        "suggestion": "2018-07-10T05:55:01"
+      }
+    ]
+  }
+}
+

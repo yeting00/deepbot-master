@@ -1,0 +1,39 @@
+{
+  "Message": {
+    "Query": "北京今天天气呢厨房？"
+  },
+  "SemanticResults": [
+    {
+      "Confidence": 0.0,
+      "Intents": [
+        {
+          "SegmentConfidence": 0.0,
+          "Domain": "web",
+          "DomainConfidence": 0.6451787634852633,
+          "Intent": "other_intent",
+          "IntentConfidence": 0.0,
+          "Implicit": false,
+          "Slots": [
+            {
+              "Type": "location",
+              "Text": "北京",
+              "Implicit": false
+            },
+            {
+              "Type": "location",
+              "Text": "厨房",
+              "entityKey": "kitchen",
+              "Implicit": false
+            },
+            {
+              "Type": "date",
+              "Text": "今天",
+              "NormalizedText": "2018-07-28T07:38:17",
+              "Implicit": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

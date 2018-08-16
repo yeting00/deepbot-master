@@ -1,0 +1,44 @@
+{
+  "AppID": "AppID",
+  "AccessToken": "AccessToken",
+  "message": {
+    "Query": "放一首动漫歌曲"
+  },
+  "Market": "zh-CN",
+  "Language": "zh-CN",
+  "Mode": 0,
+  "User": {
+    "ID": "user",
+    "Info": {
+      "Nickname": "xxxx",
+      "BirthDate": "1997-01-01T00:00:00",
+      "Gender": 1
+    }
+  },
+  "Device": {
+    "ID": "xxxxxxxxx",
+    "Info": {
+      "Make": "xxxxxx",
+      "Model": "xxxxxxxxxxx",
+      "DeviceIP": "123.1.1.1",
+      "TimeZone": "GMT+08:00",
+      "Location": {
+        "Type": 0,
+        "Content": {
+          "Latitude": 41.2222,
+          "Longitude": 135.2222,
+          "CountryCode": null,
+          "Province": null,
+          "City": null,
+          "County": null,
+          "Address": null,
+          "PostalCode": null
+        }
+      },
+      "OS": {
+        "Name": "xxxxxxxxxxxxx",
+        "Version": "1.1"
+      }
+    }
+  }
+}

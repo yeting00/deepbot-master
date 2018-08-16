@@ -1,0 +1,47 @@
+{
+  "Query": "定个明天八点的闹钟",
+  "CorrectedQuery": null,
+  "SematicResults": [
+    {
+      "Confidence": 1,
+      "Intents": [
+        {
+          "Segment": null,
+          "SegmentConfidence": 0,
+          "Service": null,
+          "Domain": "Alarm",
+          "DomainConfidence": 1,
+          "Intent": "set_alarm",
+          "IntentConfidence": 1,
+          "Implicit": false,
+          "Slots": [
+            {
+              "Type": "date",
+              "Text": "明天",
+              "NormalizedText": null,
+              "Implicit": false
+            },
+            {
+              "Type": "time",
+              "Text": "八点",
+              "NormalizedText": null,
+              "Implicit": false
+            }
+          ],
+          "Data": null
+        }
+      ]
+    }
+  ],
+  "MultiTurn": {
+    "Session": null,
+    "Turn": 0,
+    "Context": null
+  },
+  "ResponseInfo": {
+    "Code": 200,
+    "Error": null,
+    "Version": null,
+    "TraceId": null
+  }
+}

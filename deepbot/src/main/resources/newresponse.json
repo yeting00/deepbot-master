@@ -1,0 +1,44 @@
+{
+  "Message": {
+    "Query": "打开厨房和卫生间的空调",
+    "CorrectedQuery": "打开厨房和卫生间的空调",
+    "WordBrokenQuery": "打开 厨房 和 卫生 间 的 空调"
+  },
+  "SemanticResults": [
+    {
+      "Confidence": 1,
+      "Intents": [
+        {
+          "Segment": "打开 厨房 和 卫生 间 的 空调",
+          "SegmentConfidence": 0.4753654,
+          "Domain": "devicecontrol",
+          "DomainConfidence": 1,
+          "Intent": "turn_on_device",
+          "IntentConfidence": 0.4753654,
+          "Implicit": false,
+          "Slots": [
+            {
+              "Type": "location",
+              "Text": "厨房",
+              "Implicit": false
+            },
+            {
+              "Type": "location",
+              "Text": "卫生 间",
+              "Implicit": false
+            },
+            {
+              "Type": "device",
+              "Text": "空调",
+              "Implicit": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ResponseInfo": {
+    "Code": 200,
+    "TraceId": "937caabf-414f-4442-b78a-069735b9d6f2"
+  }
+}
