@@ -1,7 +1,7 @@
 package com.perspicace.ai.deepbot.nlu.service.impl;
 
-import com.perspicace.ai.deepbot.common.constant.Language;
-import com.perspicace.ai.deepbot.common.exception.CustomerException;
+import com.perspicace.ai.common.constant.Language;
+import com.perspicace.ai.common.exception.CustomerException;
 import com.perspicace.ai.deepbot.config.MicrosoftProperties;
 import com.perspicace.ai.deepbot.domain.Person;
 import com.perspicace.ai.deepbot.domain.SHD;

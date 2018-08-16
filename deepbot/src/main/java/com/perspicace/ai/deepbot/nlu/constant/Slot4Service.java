@@ -1,6 +1,6 @@
 package com.perspicace.ai.deepbot.nlu.constant;
 
-import com.perspicace.ai.deepbot.common.constant.Electrical;
+import com.perspicace.ai.common.constant.Electrical;
 
 import java.util.*;
 

@@ -1,7 +1,7 @@
 package com.perspicace.ai.deepbot.service.impl;
 
 import Ice.Current;
-import com.perspicace.ai.deepbot.common.message.PMessage;
+import com.perspicace.ai.common.message.PMessage;
 import com.perspicace.ai.deepbot.repository.impl.MqRepositoryImpl;
 import com.perspicace.ai.deepbot.utils.I18NUtil;
 import com.perspicace.ai.deepbot.utils.LocalMessageQueue;
@@ -50,7 +50,7 @@ public class PerceptionServiceImpl extends _PerceptionServiceDisp {
             LocalMessageQueue.getInstance ( ).addMessage ( sayObj );
         } else {
             //发送到mq
-            PMessage pMessage = new PMessage ( );
+            PMessage pMessage = new PMessage( );
             pMessage.setParam ( sayObj );
             pMessage.setTime ( System.currentTimeMillis ( ) );
 

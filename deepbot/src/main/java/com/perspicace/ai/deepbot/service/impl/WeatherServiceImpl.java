@@ -1,6 +1,6 @@
 package com.perspicace.ai.deepbot.service.impl;
 
-import com.perspicace.ai.deepbot.common.exception.CustomerException;
+import com.perspicace.ai.common.exception.CustomerException;
 import com.perspicace.ai.deepbot.config.PerspicaceProperties;
 import com.perspicace.ai.deepbot.model.DeviceGroupData;
 import com.perspicace.ai.deepbot.model.Slot4Weather;

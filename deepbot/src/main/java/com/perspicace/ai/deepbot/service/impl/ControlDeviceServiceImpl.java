@@ -1,10 +1,10 @@
 package com.perspicace.ai.deepbot.service.impl;
 
-import com.perspicace.ai.deepbot.common.constant.Actions;
-import com.perspicace.ai.deepbot.common.constant.Electrical;
-import com.perspicace.ai.deepbot.common.constant.ElectricalState;
-import com.perspicace.ai.deepbot.common.constant.OperateIOMapping;
+import com.perspicace.ai.common.constant.Actions;
+import com.perspicace.ai.common.constant.Electrical;
+import com.perspicace.ai.common.constant.ElectricalState;
 import com.perspicace.ai.deepbot.config.MyRabbitConfig;
+import com.perspicace.ai.deepbot.constant.OperateIOMapping;
 import com.perspicace.ai.deepbot.domain.HomeDevice;
 import com.perspicace.ai.deepbot.model.DeviceGroupData;
 import com.perspicace.ai.deepbot.model.Slot4ControlDevice;
@@ -31,7 +31,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.perspicace.ai.deepbot.common.constant.OperateIOMapping.OPERATE_VALUE_IO_MAPPING;
+import static com.perspicace.ai.deepbot.constant.OperateIOMapping.OPERATE_VALUE_IO_MAPPING;
+
 
 /**
  * @program: deepbot

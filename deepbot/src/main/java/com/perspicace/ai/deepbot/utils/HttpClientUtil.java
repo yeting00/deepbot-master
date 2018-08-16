@@ -1,8 +1,8 @@
 package com.perspicace.ai.deepbot.utils;
 
-import com.perspicace.ai.deepbot.common.constant.Constant;
-import com.perspicace.ai.deepbot.common.constant.HeaderType;
-import com.perspicace.ai.deepbot.common.exception.CustomerException;
+import com.perspicace.ai.common.constant.Constant;
+import com.perspicace.ai.common.constant.HeaderType;
+import com.perspicace.ai.common.exception.CustomerException;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;

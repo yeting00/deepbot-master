@@ -1,9 +1,9 @@
 package com.perspicace.ai.deepbot.nlu.service.impl;
 
-import com.perspicace.ai.deepbot.common.constant.Constant;
-import com.perspicace.ai.deepbot.common.constant.HeaderType;
-import com.perspicace.ai.deepbot.common.constant.Language;
-import com.perspicace.ai.deepbot.common.exception.CustomerException;
+import com.perspicace.ai.common.constant.Constant;
+import com.perspicace.ai.common.constant.HeaderType;
+import com.perspicace.ai.common.constant.Language;
+import com.perspicace.ai.common.exception.CustomerException;
 import com.perspicace.ai.deepbot.config.MicrosoftProperties;
 import com.perspicace.ai.deepbot.domain.Person;
 import com.perspicace.ai.deepbot.domain.SHD;
@@ -100,7 +100,7 @@ public class AzureNLUServiceImpl implements NLUService<NLUInputData, AzureNLURes
             if (200 != code) {
                 String message = (String) azureNLUResponseData.getResponseInfo ( ).getError ( );
                 log.error ( "调用微软语义解析结果失败---->" + message );
-                throw new CustomerException ( Constant.error100004 , message );
+                throw new CustomerException( Constant.error100004 , message );
             }
             log.info ( "调用微软语义解析结果成功---->" + resultJson );
             return azureNLUResponseData;

@@ -1,9 +1,9 @@
 package com.perspicace.ai.deepbot;
 
-import com.perspicace.ai.common.utils.IceInvokeParams;
-import com.perspicace.ai.common.utils.IceInvoker;
-import com.perspicace.ai.common.utils.LocalMessageQueue;
-import com.perspicace.ai.common.utils.Sl4jLoggerUtil;
+import com.perspicace.ai.deepbot.utils.IceInvokeParams;
+import com.perspicace.ai.deepbot.utils.IceInvoker;
+import com.perspicace.ai.deepbot.utils.LocalMessageQueue;
+import com.perspicace.ai.deepbot.utils.Sl4jLoggerUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
