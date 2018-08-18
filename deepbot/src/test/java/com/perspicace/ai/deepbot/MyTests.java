@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 import com.alibaba.fastjson.JSON;
 import com.perspicace.ai.common.constant.HeaderType;

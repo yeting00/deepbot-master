@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

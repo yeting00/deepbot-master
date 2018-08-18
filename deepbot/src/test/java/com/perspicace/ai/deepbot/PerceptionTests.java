@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 /**
  * @program: deepbot

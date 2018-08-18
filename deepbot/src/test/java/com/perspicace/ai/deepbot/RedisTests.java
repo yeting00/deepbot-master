@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 import com.perspicace.ai.deepbot.nlu.model.ContextData;
 import com.perspicace.ai.deepbot.nlu.service.impl.PerspicaceNLUServiceImpl;

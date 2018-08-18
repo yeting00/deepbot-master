@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 import com.perspicace.ai.deepbot.service.thriftclient.DemoClientProxy;
 import lombok.extern.slf4j.Slf4j;

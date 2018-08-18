@@ -1,6 +1,6 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
-import com.perspicace.ai.deepbot.common.constant.Language;
+import com.perspicace.ai.common.constant.Language;
 import com.perspicace.ai.deepbot.domain.Person;
 import com.perspicace.ai.deepbot.domain.SHD;
 import com.perspicace.ai.deepbot.nlu.model.NLUResponseData;

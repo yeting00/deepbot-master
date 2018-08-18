@@ -1,4 +1,4 @@
-package deepbot;
+package com.perspicace.ai.deepbot;
 
 import com.perspicace.ai.deepbot.service.DistributionService;
 import com.perspicace.modules.Perception.PerceptionTxt.Source;
@@ -21,7 +21,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class DistributionTests {
     @Autowired
     private DistributionService distributionService;
-
     @Test
     public void testPerceptionService(){
 //        for(int i =0;i<5;i++) {
