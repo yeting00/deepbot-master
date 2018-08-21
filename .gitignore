@@ -53,3 +53,4 @@ deepbot/src/test/resources/
 icegenerated/build/
 icegenerated/out/
 logs/
+generated/
