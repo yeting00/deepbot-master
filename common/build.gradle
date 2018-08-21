@@ -18,8 +18,7 @@ dependencies {
     //导入本地jar包
 //  compile fileTree(dir:'lib',include:['*.jar'])
 
-    //依赖icegenerated
-    compile project(":icegenerated")
+
 
     compile rootProject.ext.dependencies["lombok"]
     compile rootProject.ext.dependencies["slf4j-api"]

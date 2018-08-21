@@ -9,6 +9,8 @@ import com.perspicace.gen.electricappliance.slice.ElectricApplianceGenJsonServic
 import com.perspicace.gen.electricappliance.slice.ElectricApplianceGenJsonServicePrxHelper;
 import com.perspicace.gen.scene.slice.SceneServicePrx;
 import com.perspicace.gen.scene.slice.SceneServicePrxHelper;
+import com.perspicace.gen.thirdparty.slice.ThirdPartyServicePrx;
+import com.perspicace.gen.thirdparty.slice.ThirdPartyServicePrxHelper;
 import com.perspicace.modules.AICall.AICall.AICallServicePrx;
 import com.perspicace.modules.AICall.AICall.AICallServicePrxHelper;
 import org.slf4j.Logger;
@@ -138,6 +140,15 @@ public class IceInvoker{
 		return electricApplianceControlServicePrx;
 	}
 
+	//thirdparty service
+	private static ThirdPartyServicePrx thirdPartyServicePrx;
+	public static ThirdPartyServicePrx getThirdPartyServicePrx(){
+		if(thirdPartyServicePrx == null){
+			ObjectPrx prx= (ObjectPrx)getIceProxy(IceInvoker.tts,ThirdPartyServicePrx.class);
+			thirdPartyServicePrx = ThirdPartyServicePrxHelper.uncheckedCast(prx);
+		}
+		return thirdPartyServicePrx;
+	}
 
 
 

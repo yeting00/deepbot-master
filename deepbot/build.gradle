@@ -58,4 +58,8 @@ dependencies {
 
     //引入工程依赖
     compile project(":common")
+
+    //依赖icegenerated
+    compile project(":icegenerated")
+
 }
